@@ -1,5 +1,4 @@
 # LAB 1
-```code
 University: [ITMO University](https://itmo.ru/ru/)
 Faculty: [FICT](https://fict.itmo.ru)
 Course: [Network programming](https://github.com/itmo-ict-faculty/network-programming)
@@ -9,7 +8,6 @@ Author: Subbota Anton Dmitrievich
 Lab: Lab1
 Date of create: 25.09.2024
 Date of finished: 25.09.2024
-```
 ## Цель 
 
 Целью данной работы является развертывание виртуальной машины на базе платформы Microsoft Azure с установленной системой контроля конфигураций Ansible и установка CHR в VirtualBox
@@ -48,9 +46,11 @@ Date of finished: 25.09.2024
 
 ![alt text](img/image-14.png)
 
-4.4. Настраиваем скрипты для OpenVPN сервера.
+4.4. Настраиваем скрипты для сетевого окружения OpenVPN сервера.
 
 ![alt text](img/image-15.png)
+
+
 
 5. Сделаны сертификат и ключ, полученные при создании OpenVPN сервера.
 
