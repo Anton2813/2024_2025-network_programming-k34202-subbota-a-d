@@ -1,4 +1,5 @@
 cert.crt
 client.key
-cert2.crt
-client2.key
+*.cert
+*.key
+*.ovpn
