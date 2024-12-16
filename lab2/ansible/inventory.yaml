@@ -8,7 +8,7 @@ all:
       ansible_password: admin
       ansible_connection: ssh
       ansible_ssh_common_args: '-o StrictHostKeyChecking=no'
-      password: admin
+      password: admin1
       new_password: admin1
       ospf_router_id: 1.1.1.1
       ansible_remote_tmp: /tmp
